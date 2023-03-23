@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/domba.png" alt="Domba" style="width: 20%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/domba2.png" alt="Domba" style="width: 20%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 # Domba: An Indonesian finetuned instruction LLaMA
