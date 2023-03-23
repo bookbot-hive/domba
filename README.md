@@ -60,7 +60,7 @@ You can test it using the eval notebook [here](notebooks/cabrita-lora.ipynb).
 
 ## Next steps
 
-- Create a better portuguese dataset
+- Create a better Indonesian dataset
 - Evaluate the toxicity
 - Finetune large models
 
