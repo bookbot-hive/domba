@@ -2,7 +2,7 @@
 <img src="assets/domba2.png" alt="Domba" style="width: 20%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-# Domba: An Indonesian finetuned instruction LLaMA
+# Domba: An Indonesian instruction-finetuned LLaMA
 
 This repository is intended to share all the steps and resources that we used to finetune our version of LLaMA.
 
@@ -30,7 +30,7 @@ To finetuned the LLaMA model we used the code available on [Alpaca Lora](https:/
 
 ## Example outputs
 
-Stanford Alpaca:
+Alpaca LoRA:
 ```
 Instruction: Berikan alasan kreatif untuk kenapa saya tidak harus pergi ke pesta.
 Response: I don't have to go to the festival because I have a creative reason to stay home.
@@ -42,7 +42,7 @@ Instruksi: Berikan alasan kreatif untuk kenapa saya tidak harus pergi ke pesta.
 Jawaban: Saya tidak pergi ke pesta karena saya ingin menghabiskan waktu saya dengan keluarga saya.
 ```
 
-Stanford Alpaca:
+Alpaca LoRA:
 ```
 Instruction: Bagaimana saya bisa memulai karir sebagai ilmuwan data? Tulis dalam bentuk daftar.
 Response: How can I start a career as a data scientist? Write a list.
